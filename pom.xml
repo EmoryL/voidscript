@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>org.jline</groupId>
+        <artifactId>jline-terminal</artifactId>
+        <version>3.25.1</version>
+    </dependency>
+</dependencies>
