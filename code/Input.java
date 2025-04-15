@@ -1,7 +1,4 @@
 import org.jline.terminal.*;
-import org.jline.terminal.impl.*;
-import org.jline.reader.*;
-import org.jline.reader.impl.*;
 import java.io.IOException;
 
 public class Input

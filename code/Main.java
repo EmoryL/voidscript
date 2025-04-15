@@ -11,7 +11,7 @@ public class Main {
       char character = input.getch();
       if(character == 'a')
         System.out.print("hello world");
-      else if (character == 13)
+      else if (character == 'e')
         break;
     }
     System.out.print("\033[H\033[2J");
@@ -42,9 +42,9 @@ public class Main {
     System.out.print("\033[0m");
   }
 
-  private static void print(Health health) {
-    System.out.print(health.render());
-    System.out.println(health.HP());
-  }
+  //private static void print(Health health) {
+    //System.out.print(health.render());
+    //System.out.println(health.HP());
+  //}
   
 }
